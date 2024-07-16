@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book Recommendation</string>
+    <string-array name="genre_array">
+        <item>Select a Genre</item>
+        <item>Science Fiction</item>
+        <item>Fantasy</item>
+        <item>Mystery</item>
+        <item>Romance</item>
+        <item>Non-Fiction</item>
+    </string-array>
+
+</resources>
